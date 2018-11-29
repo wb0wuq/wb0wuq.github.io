@@ -9,7 +9,7 @@
             {
                "name": "WB0WUQ Arduino Boards",
                "architecture": "avr",
-               "version": "1.0.1",
+               "version": "1.0.3",
                "category": "Contributed",
                "url": "https://github.com/wb0wuq/wb0wuq_arduino_boards/archive/1.0.3.zip",
                "archiveFileName": "wb0wuq_arduino_boards.zip",
